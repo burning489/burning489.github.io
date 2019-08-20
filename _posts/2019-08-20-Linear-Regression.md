@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Pytorch Basics 
-subtitle:   following tutorials about PyTorch
+title:      Linear Regression
+subtitle:   implement linear regression with PyTorch
 date:       2019-08-20
 author:     Zhao Ding
 header-img: img/post-bg-2015.jpg
