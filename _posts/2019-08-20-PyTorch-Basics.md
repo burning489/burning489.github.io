@@ -1,4 +1,14 @@
-
+---
+layout:     post
+title:      Pytorch Basics 
+subtitle:   following tutorials about PyTorch
+date:       2019-08-20
+author:     Zhao Ding
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - PyTorch
+---
 > following tutorial from [github.yunjey](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/)
 
 
