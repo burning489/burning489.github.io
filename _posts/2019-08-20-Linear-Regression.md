@@ -93,5 +93,5 @@ torch.save(model.state_dict(), 'model.ckpt')
 
 
 
-![png](img/post-linear-regression.png)
+![png](https://raw.githubusercontent.com/burning489/burning489.github.io/master/img/post-linear-regression.png)
 
