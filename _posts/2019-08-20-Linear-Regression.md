@@ -93,5 +93,5 @@ torch.save(model.state_dict(), 'model.ckpt')
 
 
 
-![png](../img/post-linear-regression.png)
+![png](img/post-linear-regression.png)
 
