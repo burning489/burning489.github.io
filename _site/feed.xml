@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-07T02:01:13+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ding Zhao’s Blog</title><subtitle>Discover world.</subtitle><entry><title type="html">My personal experience of vim</title><link href="http://localhost:4000/2022/10/07/vim.html" rel="alternate" type="text/html" title="My personal experience of vim" /><published>2022-10-07T01:46:10+08:00</published><updated>2022-10-07T01:46:10+08:00</updated><id>http://localhost:4000/2022/10/07/vim</id><content type="html" xml:base="http://localhost:4000/2022/10/07/vim.html"><![CDATA[<p>I’ve been configuring my personal vim for several days. Below are details.</p>
+
+<p>I won’t labor on the basic knowledge of vim, such as hjkl movement, different modes and how to quit vim :) e.t.c.</p>
+
+<p>My personal configuration of vim is available at <a href="https://gitee.com/burning489/vim-settings">my gitee repository</a>.</p>
+
+<p>I installed several plugins for convenience and appearance. They are fzf, nerdtree, easymotion, tagbar and lightline. You can search for more on <a href="https://vimawesome.com">VimAwesome</a>. I will refer to these plugins later on.</p>
+
+<h2 id="some-personal-tricks">Some personal tricks</h2>
+
+<p>I want share some pure-vim tricks useful to me.</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">&lt;c-n&gt;</code> in insert mode for auto-completion</li>
+  <li><code class="language-plaintext highlighter-rouge">[[</code> or <code class="language-plaintext highlighter-rouge">]]</code> in normal mode for quick jump between functions</li>
+  <li><code class="language-plaintext highlighter-rouge">#</code> or <code class="language-plaintext highlighter-rouge">*</code> for quick search of the word under cursor backward and forward</li>
+  <li><code class="language-plaintext highlighter-rouge">gg=G</code> in normal mode for auto-indention for all lines</li>
+  <li><code class="language-plaintext highlighter-rouge">gi</code> in normal mode to go to last insertion place</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;c-i&gt;</code> or <code class="language-plaintext highlighter-rouge">&lt;c-o&gt;</code> to quick jump</li>
+  <li><code class="language-plaintext highlighter-rouge">cf&lt;char&gt;</code> to quick change to first occurance of <code class="language-plaintext highlighter-rouge">&lt;char&gt;</code>(included) in line, you can use <code class="language-plaintext highlighter-rouge">c2f&lt;char&gt;</code> to change to the second occurance if you have sharp eyes</li>
+  <li><code class="language-plaintext highlighter-rouge">ci(</code> or <code class="language-plaintext highlighter-rouge">"</code> or <code class="language-plaintext highlighter-rouge">p</code> or <code class="language-plaintext highlighter-rouge">&lt;</code> e.t.c. to quick change a range of characters</li>
+</ul>
+
+<p>As most vimmers do, I remap jk into ESC to quit insert mode.</p>
+
+<h2 id="plugins">Plugins</h2>
+
+<p>Vim will allocate memory(buffers) for each file you opend. Once you edit some file, its raw contents is read from file into buffers, and your modification will be written back into file after you save it by <code class="language-plaintext highlighter-rouge">:w</code>. I use fzf.vim to manage my buffers by <code class="language-plaintext highlighter-rouge">&lt;leader&gt;b</code>.</p>
+
+<p>Your screen will always show one tab. You can split (horizontally or vertically) into windows. <code class="language-plaintext highlighter-rouge">&lt;c-w&gt;</code> is the default prefix for window comamnd. I remap several commands so that I can switch between windows quickly by <code class="language-plaintext highlighter-rouge">&lt;c-hjkl&gt;</code> without prefix. I also remap + and _ to resize window vertically and <code class="language-plaintext highlighter-rouge">&lt;leader&gt;</code>, and <code class="language-plaintext highlighter-rouge">&lt;leader&gt;</code>. to resize horizontally. Vim takes :sp and :vsp by default to split current buffer into windows. I remap them into <code class="language-plaintext highlighter-rouge">&lt;leader&gt;%</code> and <code class="language-plaintext highlighter-rouge">&lt;leader&gt;"</code> thanks to tmux inspiration.</p>
+
+<p>Windows are not enough as your screnn might not display all files of interest. That’s where tabs come in. I use <code class="language-plaintext highlighter-rouge">&lt;leader&gt;n</code> to create a new tab and <code class="language-plaintext highlighter-rouge">&lt;leader&gt;x</code> to kill one. I use <code class="language-plaintext highlighter-rouge">&lt;leader&gt;n</code> to go to tab #n. For adjacent tabs, I use <code class="language-plaintext highlighter-rouge">&lt;leader&gt;h</code> and <code class="language-plaintext highlighter-rouge">&lt;leader&gt;l</code> to navigate.</p>
+
+<p>To quick jump inside a complicated project, I recommend fzf and fzf.vim to ease your pain. It’s based on tags inforamtion generated by tags or ctags. I remap <code class="language-plaintext highlighter-rouge">&lt;leader&gt;b</code> f t s to quick search in buffers, files, tags and current file.</p>
+
+<p>To quick jump inside a file, I use easymoion. It helps in the occassion where I want to change to, say 5th occurance of e in a line. Simply ffe and type coresponding index. You can go to its repository page for more information.</p>
+
+<p>For project structure, I use nerdtree and keep only two mappings useful to me: <code class="language-plaintext highlighter-rouge">&lt;c-b&gt;</code> to toggle nerdtree and <code class="language-plaintext highlighter-rouge">&lt;c-n&gt;</code> to start it as I might want to restart it at base directory.</p>
+
+<p>I like the outline of VS Code and found its alternative in vim: tagbar. I remap <code class="language-plaintext highlighter-rouge">&lt;F8&gt;</code> to toggle it.</p>
+
+<p>I use lightline to prettify my statusline and make it more colorful. I tried vim-airline but it seems too clumsy for me. I did a little customizaion of the plugin: show current tag name on the left side of statusline as I need to know which part I am at in the current file.</p>
+
+<h2>…</h2>
+
+<p>I’ve been trying emacs and vim back and forth for quite a long time. I also tried VS Code with vim extension, but the migration sometimes doesn’t fit me well. I prefer the native vim interaction. Emacs is good, especially with lisp support, but I just ran into vim earlier and its philosophy influenced me ever since. Perhaps that’s why I picked it up again after years.</p>
+
+<p>For now I haven’t learnt vimscript quite well. I might consider learn more about it to make my personal vim better handy.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[I’ve been configuring my personal vim for several days. Below are details.]]></summary></entry></feed>
