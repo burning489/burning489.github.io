@@ -12,6 +12,12 @@ Zhao DING (丁钊). Computational Mathematics PhD candidate at Wuhan University.
 
 [中文简历](assets/resume/resume_zh.pdf) &nbsp; &nbsp; &nbsp; [English Resume](assets/resume/resume_en.pdf) 
 
+## Contact
+
+E-mail: [dingz489@gmail.com](mailto:dingz489@gmail.com), [zd1998@whu.edu.cn](mailto:zd1998@whu.edu.cn)
+
+Phone: +86 157 2701 5212
+
 ## Recent Work
 
 Working on new **one-step** generation scheme derived from diffusion models, exploiting the deterministic nature of ODE, achieving SOTA results among methods of the same kind. Participated in algorithm design and numerical implementation. [Details](https://arxiv.org/abs/2405.05512).
