@@ -7,40 +7,47 @@ title: Home
 ---
 
 ## Profile
+---
+<span style="font-variant:small-caps;">Zhao DING</span> (丁钊). Computational Mathematics PhD candidate at Wuhan University. Expect to enter the job market in 2025. Working on **solving PDE by deep learning** & **diffusion model based generation**. With 4 years of experience in scientific computing and 2 years in generative learning.
 
-Zhao DING (丁钊). Computational Mathematics PhD candidate at Wuhan University. Expect to enter the job market in 2025. Working on **solving PDE by deep learning** & **diffusion model based generation**. With 4 years of experience in scientific computing and 2 years in generative learning.
+[[简历]](assets/resume/resume_zh.pdf) &nbsp; &nbsp; &nbsp; [[Curriculum Vitae]](assets/resume/resume_en.pdf) 
 
-[中文简历](assets/resume/resume_zh.pdf) &nbsp; &nbsp; &nbsp; [English Resume](assets/resume/resume_en.pdf) 
 
 ## Contact
-
+---
 E-mail: [dingz489@gmail.com](mailto:dingz489@gmail.com), [zd1998@whu.edu.cn](mailto:zd1998@whu.edu.cn)
 
 Phone: +86 157 2701 5212
 
 ## Recent Work
-
-Working on new **one-step** generation scheme derived from diffusion models, exploiting the deterministic nature of ODE, achieving SOTA results among methods of the same kind. Participated in algorithm design and numerical implementation. [Details](https://arxiv.org/abs/2405.05512).
+---
+Working on new **one-step** generation scheme derived from diffusion models, exploiting the deterministic nature of ODE, achieving SOTA results among methods of the same kind. Participated in algorithm design and numerical implementation. [Post](post/generative-ode-flow).
 
 ## Education
-
+---
 - PhD, Computational Mathematics, Wuhan University, 2020-present.
 - BSc, Mathematics and Applied Mathematics, Wuhan University, 2016-2020.
 
 ## Publication
-
-- <u>Zhao Ding</u>, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang and Pingwen Zhang (2024). Characteristic Learning for Provable One Step Generation. [arXiv:2405.05512](https://arxiv.org/abs/2405.05512). [[Project page]](https://github.com/burning489/CharacteristicGenerator).
-- <u>Zhao Ding</u>, Chenguang Duan, Yuling Jiao and Jerry Zhijian Yang (2024). Semi-Supervised Deep Sobolev Regression: Estimation, Variable Selection and Beyond. [arXiv:2401.04535](https://arxiv.org/abs/2401.04535).
-- Jinyuan Chang, <u>Zhao Ding</u>, Yuling Jiao, Ruoxuan Li and Jerry Zhijian Yang (2024). Deep conditional distribution learning via conditional Föllmer flow. [arXiv:2402.01460](https://arxiv.org/abs/2402.01460). [[Project page]](https://github.com/burning489/ConditionalFollmerFlow).
-- <u>Zhao Ding</u>, Yuling Jiao, Xiliang Lu, Jerry Zhijian Yang and Cheng Yuan (2023). Sampling via Föllmer Flow. [arXiv:2311.03660](https://arxiv.org/abs/2311.03660). [[Project page]](https://github.com/burning489/SamplingFollmerFlow).
-- <u>Zhao Ding</u>, Junjun Huang, Yuling Jiao, Xiliang Lu and Jerry Zhijian Yang (2020). Robust decoding from binary measurements with cardinality constraint least squares. In press with *Communications in Computational Physics*.
-- Mo Chen, <u>Zhao Ding</u>, Yuling Jiao, Xiliang Lu, Peiying Wu and Jerry Zhijian Yang (2023). Convergence analysis of PINNs with Over-parametrization. In press with *Communications in Computational Physics*.
+---
+- <u>Zhao Ding</u>, Chenguang Duan, Yuling Jiao, Ruoxuan Li, Jerry Zhijian Yang and Pingwen Zhang (2024). Characteristic Learning for Provable One Step Generation. \
+[arXiv:2405.05512](https://arxiv.org/abs/2405.05512). [[Project Page]](https://github.com/burning489/CharacteristicGenerator).
+- <u>Zhao Ding</u>, Chenguang Duan, Yuling Jiao and Jerry Zhijian Yang (2024). Semi-Supervised Deep Sobolev Regression: Estimation, Variable Selection and Beyond. \
+[arXiv:2401.04535](https://arxiv.org/abs/2401.04535).
+- Jinyuan Chang, <u>Zhao Ding</u>, Yuling Jiao, Ruoxuan Li and Jerry Zhijian Yang (2024). Deep conditional distribution learning via conditional Föllmer flow. \
+[arXiv:2402.01460](https://arxiv.org/abs/2402.01460). [[Project Page]](https://github.com/burning489/ConditionalFollmerFlow).
+- <u>Zhao Ding</u>, Yuling Jiao, Xiliang Lu, Jerry Zhijian Yang and Cheng Yuan (2023). Sampling via Föllmer Flow. \
+[arXiv:2311.03660](https://arxiv.org/abs/2311.03660). [[Project Page]](https://github.com/burning489/SamplingFollmerFlow).
+- <u>Zhao Ding</u>, Junjun Huang, Yuling Jiao, Xiliang Lu and Jerry Zhijian Yang (2020). Robust decoding from binary measurements with cardinality constraint least squares. \
+In press with *Communications in Computational Physics*.
+- Mo Chen, <u>Zhao Ding</u>, Yuling Jiao, Xiliang Lu, Peiying Wu and Jerry Zhijian Yang (2023). Convergence analysis of PINNs with Over-parametrization. \
+In press with *Communications in Computational Physics*.
 
 ## Experience
-
+---
 - **Teaching Assistant, Wuhan University, 2021**
 
-	Numerical tutorials in MATLAB for “Numerical Linear Algebra”. [[Project page]](https://github.com/burning489/2021_autumn_numerical_linear_algebra)
+	Numerical tutorials in MATLAB for “Numerical Linear Algebra”. [[Project Page]](https://github.com/burning489/2021_autumn_numerical_linear_algebra)
 
 - **Invited Talks**
 
@@ -75,34 +82,30 @@ Working on new **one-step** generation scheme derived from diffusion models, exp
 		Design the architecture for sparse Cholesky decomposition and develop the symbol factorization part. Reach comparable performance compared to C library `CHOLMOD`. (*C++*)
 
 ## Skill
+---
+- Scientific Computing
 
-- Python
-	
-	scientific computing, with `numpy`, `scipy`, `matplotlib`, `seaborn`, ...
+	in Python (numpy, scipy, matplotlib, seaborn, ...), MATLAB, C/C++
 
-- PyTorch
+- Deep Learning
 
-	data parallelism training/inference
+	with PyTorch, experienced in data parallel training/inference of diffusion models
 
-- MATLAB
+- Language
 
-	scientific computing
+	English: CET4 (620), CET6 (625), IELTS (6.5)
 
-- C/C++
+- Other
 
-	basic usage, scientific computing
-
-- English
-
-	CET4 (620), CET6 (625), IELTS (6.5)
+	bash script, git, make, LaTex
 
 ## Award
-
+---
 - SIAM Award for Student Chapter at Wuhan University, 2024
 - First Prize of China Undergraduate Mathematical Contest in Modeling, 2018
 
 ## Hobby
-
+---
 - Sudoku (middle level player)
 - Movies (Horror, Suspense, Sci-Fi)
 
