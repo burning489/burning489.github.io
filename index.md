@@ -18,7 +18,7 @@ Focues on **machine learning** and **scientific computing**, specifically in **d
 
 ## Contact
 ---
-E-mail: [dingz489 AT gmail DOT com](mailto:dingz489@gmail.com), [zd1998 AT whu DOT edu DOT cn](mailto:zd1998@whu.edu.cn)
+E-mail: [zhao DOT ding AT polyu DOT edu DOT hk](mailto:zhao.ding@polyu.edu.hk), [dingz489 AT gmail DOT com](mailto:dingz489@gmail.com), [zd1998 AT whu DOT edu DOT cn](mailto:zd1998@whu.edu.cn)
 
 <!-- Phone: +86 157 2701 5212 -->
 
@@ -29,10 +29,6 @@ Working on new **one-step** generation scheme derived from diffusion models, exp
 
 ## Experience
 ---
-- **Teaching Assistant, Wuhan University, 2021**
-
-	Numerical tutorials in MATLAB for “Numerical Linear Algebra”. [[Project Page]](https://github.com/burning489/2021_autumn_numerical_linear_algebra)
-
 - **Invited Talks**
 
 	- “One Step Characteristic Generator by Distillation Techniques” at the 18th East Asia Section for Industrial and Applied Mathematics (EASIAM) conference, 2025.
@@ -44,6 +40,10 @@ s
 	- “ODE-based Sampling and Generative Models” at the student chapter of the 17th East Asia Section for Industrial and Applied Mathematics (EASIAM) conference, 2024.
 
 	- “Sampling via Föllmer Flow” at the student chapter of the 21st China Society for Industrial and Applied Mathematics (CSIAM) conference, 2023.
+
+- **Teaching Assistant, Wuhan University, 2021**
+
+	Numerical tutorials in MATLAB for “Numerical Linear Algebra”. [[Project Page]](https://github.com/burning489/2021_autumn_numerical_linear_algebra)
 
 - **Member of Projects, Wuhan University & Huawei, 2020-2024**
 
