@@ -9,16 +9,20 @@ title: Home
 ## Profile
 ---
 <span style="font-variant:small-caps;">Zhao DING</span> (丁钊). 
-Currently Postdoc in Department of Applied Mathematics at The Hong Kong Polytechnic University, collaborating with Prof. [Buyang Li](https://www.polyu.edu.hk/ama/profile/byli/). 
-BsC in Mathematics and Applied Mathematics, Wuhan University, 2020. 
-PhD in Computation Mathematics, supervised by Prof. Jerry Zhijian Yang, Wuhan University, 2025. 
-Focues on **machine learning** and **scientific computing**, specifically in **diffusion models** and **learning theory**.
+
+- Postdoctoral Fellow in Department of Applied Mathematics at The Hong Kong Polytechnic University, supervised by Prof. [Buyang Li](https://www.polyu.edu.hk/ama/profile/byli/). (2025 - )
+
+- PhD in Computation Mathematics, honorably supervised by Prof. [Jerry Zhijian Yang](https://imai.whu.edu.cn/info/1031/2141.htm), and additionally guided by Prof. [Yuling Jiao](https://jszy.whu.edu.cn/jiaoyuling/en/index.htm), Wuhan University. (2020 - 2025)
+
+- BSc in Mathematics and Applied Mathematics, Wuhan University. (2016 - 2020)
+
+- Focues on **machine learning** and **scientific computing**, specifically in **diffusion models** and **learning theory**.
 
 [[Resume]](assets/resume/resume_en.pdf) 
 
 ## Contact
 ---
-E-mail: [zhao DOT ding AT polyu DOT edu DOT hk](mailto:zhao.ding@polyu.edu.hk), [dingz489 AT gmail DOT com](mailto:dingz489@gmail.com), [zd1998 AT whu DOT edu DOT cn](mailto:zd1998@whu.edu.cn)
+E-mail: [zhao DOT ding AT polyu DOT edu DOT hk](mailto:zhao.ding@polyu.edu.hk), [dingz489 AT gmail DOT com](mailto:dingz489@gmail.com),
 
 <!-- Phone: +86 157 2701 5212 -->
 
@@ -32,7 +36,7 @@ Working on new **one-step** generation scheme derived from diffusion models, exp
 - **Invited Talks**
 
 	- “One Step Characteristic Generator by Distillation Techniques” at the 18th East Asia Section for Industrial and Applied Mathematics (EASIAM) conference, 2025.
-s
+
 	- “Distillation-Based One Step Generative Models” at Annual Conference of Chinese Statistical Association of Young Scholars, 2025.
 
 	- “Score-Based Sequential Langevin Sampling for Data Assimilation” at Peking University Seminar for Outstanding Doctoral Students in Computational and Applied Mathematics, 2024.
@@ -91,6 +95,7 @@ s
 
 ## Award
 ---
+- College-level Outstanding Graduate in School of Mathematics and Statistics at Wuhan University, 2025
 - SIAM Award for Student Chapter at Wuhan University, 2024
 - First Prize of China Undergraduate Mathematical Contest in Modeling, 2018
 
