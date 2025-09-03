@@ -7,7 +7,7 @@ title: Home
 ---
 
 ## Profile
----
+
 <span style="font-variant:small-caps;">Zhao DING</span> (丁钊). 
 
 - Postdoctoral Fellow in Department of Applied Mathematics at The Hong Kong Polytechnic University, supervised by Prof. [Buyang Li](https://www.polyu.edu.hk/ama/profile/byli/). (2025 - )
@@ -18,18 +18,23 @@ title: Home
 
 - Focues on **machine learning** and **scientific computing**, specifically in **diffusion models** and **learning theory**.
 
-## Links
 ---
+
+## Links
+
 - [[ORCID](0009-0002-5151-7264)](https://orcid.org/0009-0002-5151-7264)
 
 - [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=Tcf62aIAAAAJ)
 
 - [[GitHub]](https://github.com/burning489)
 
-## Contact
 ---
+
+## Contact
+
 E-mail: [zhao DOT ding AT polyu DOT edu DOT hk](mailto:zhao.ding@polyu.edu.hk), [dingz489 AT gmail DOT com](mailto:dingz489@gmail.com)
 
+---
 
 <!-- ## Recent Work
 ---
@@ -37,7 +42,7 @@ Working on new **one-step** generation scheme derived from diffusion models, exp
  -->
 
 ## Experience
----
+
 - **Invited Talks**
 
 	- “One Step Characteristic Generator by Distillation Techniques” at the 18th East Asia Section for Industrial and Applied Mathematics (EASIAM) conference, 2025.
@@ -50,9 +55,13 @@ Working on new **one-step** generation scheme derived from diffusion models, exp
 
 	- “Sampling via Föllmer Flow” at the student chapter of the 21st China Society for Industrial and Applied Mathematics (CSIAM) conference, 2023.
 
+---
+
 - **Teaching Assistant, Wuhan University, 2021**
 
 	Numerical tutorials in MATLAB for “Numerical Linear Algebra”. [[Project Page]](https://github.com/burning489/2021_autumn_numerical_linear_algebra)
+
+---
 
 - **Member of Projects, Wuhan University & Huawei, 2020-2024**
 
@@ -68,8 +77,10 @@ Working on new **one-step** generation scheme derived from diffusion models, exp
 
 	- Sparse Matrix Solver. Design the architecture for sparse Cholesky decomposition and develop the symbol factorization part. Reach comparable performance compared to C library `CHOLMOD`. (*C++*)
 
-## Skill
 ---
+
+## Skill
+
 - Scientific Computing, in Python (numpy, scipy, matplotlib, seaborn, ...), MATLAB, C/C++
 
 - Deep Learning, with PyTorch, experienced in data parallel training/inference of diffusion models
@@ -78,10 +89,12 @@ Working on new **one-step** generation scheme derived from diffusion models, exp
 
 - Others: bash script, git, make, LaTex, ...
 
-## Award
 ---
+
+## Award
+
 - College-level Outstanding Graduate in School of Mathematics and Statistics at Wuhan University, 2025
 - SIAM Award for Student Chapter at Wuhan University, 2024
 - First Prize of China Undergraduate Mathematical Contest in Modeling, 2018
 
-
+---
