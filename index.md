@@ -18,13 +18,18 @@ title: Home
 
 - Focues on **machine learning** and **scientific computing**, specifically in **diffusion models** and **learning theory**.
 
-[[Resume](latest update: 04/2025)](assets/resume/resume_en.pdf) 
+## Links
+---
+- [[ORCID](0009-0002-5151-7264)](https://orcid.org/0009-0002-5151-7264)
+
+- [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=Tcf62aIAAAAJ)
+
+- [[GitHub]](https://github.com/burning489)
 
 ## Contact
 ---
-E-mail: [zhao DOT ding AT polyu DOT edu DOT hk](mailto:zhao.ding@polyu.edu.hk), [dingz489 AT gmail DOT com](mailto:dingz489@gmail.com),
+E-mail: [zhao DOT ding AT polyu DOT edu DOT hk](mailto:zhao.ding@polyu.edu.hk), [dingz489 AT gmail DOT com](mailto:dingz489@gmail.com)
 
-<!-- Phone: +86 157 2701 5212 -->
 
 <!-- ## Recent Work
 ---
