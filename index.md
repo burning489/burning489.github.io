@@ -18,7 +18,7 @@ title: Home
 
 - Focues on **machine learning** and **scientific computing**, specifically in **diffusion models** and **learning theory**.
 
-[[Resume]](assets/resume/resume_en.pdf) 
+[[Resume](latest update: 04/2025)](assets/resume/resume_en.pdf) 
 
 ## Contact
 ---
