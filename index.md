@@ -51,47 +51,27 @@ Working on new **one-step** generation scheme derived from diffusion models, exp
 
 - **Member of Projects, Wuhan University & Huawei, 2020-2024**
 
-	1. Machine Learning Library
+	- Machine Learning Library. Develop SVD, PCA, LDA and ARMA, with performance comparable to (partially better than) `scikit-learn` and `statsmodels`. (*C++*)
 
-		Develop SVD, PCA, LDA and ARMA, with performance comparable to (partially better than) `scikit-learn` and `statsmodels`. (*C++*)
+	- Vector Statistical Library. Develop 1st-4th original & central SUM and MOM statistical functions. (*C*)
 
-	2. Vector Statistical Library
+	- MindX Models. Implement of FNO & PINO (operator networks) in native `MindSpore`. (*Python*)
 
-		Develop 1st-4th original & central SUM and MOM statistical functions. (*C*)
+	- High Precision Math Function Library. Develop interval algorithms with arbitrary precision, built upon `mpfr` library, in object oriented style, for testing basic math functions at any precision. (*C++*)
 
-	3. MindX Models
+	- Derivative Constrained Path Fitting. Develop B-spline fitting algorithm under 1st-3rd derivative constraints. (*MATLAB,C++*)
 
-		Implement of FNO & PINO (operator networks) in native `MindSpore`. (*Python*)
-
-	4. Math Function Library with High Precision
-
-		Develop interval algorithms with arbitrary precision, built upon `mpfr` library, in object oriented style, for testing basic math functions at any precision. (*C++*)
-
-	5. Derivative Constrained Path Fitting
-
-		Develop B-spline fitting algorithm under 1st-3rd derivative constraints. (*MATLAB,C++*)
-
-	6. Sparse Matrix Solver
-
-		Design the architecture for sparse Cholesky decomposition and develop the symbol factorization part. Reach comparable performance compared to C library `CHOLMOD`. (*C++*)
+	- Sparse Matrix Solver. Design the architecture for sparse Cholesky decomposition and develop the symbol factorization part. Reach comparable performance compared to C library `CHOLMOD`. (*C++*)
 
 ## Skill
 ---
-- Scientific Computing
+- Scientific Computing, in Python (numpy, scipy, matplotlib, seaborn, ...), MATLAB, C/C++
 
-	in Python (numpy, scipy, matplotlib, seaborn, ...), MATLAB, C/C++
+- Deep Learning, with PyTorch, experienced in data parallel training/inference of diffusion models
 
-- Deep Learning
+- Language, English: CET4 (620), CET6 (625), IELTS (6.5)
 
-	with PyTorch, experienced in data parallel training/inference of diffusion models
-
-- Language
-
-	English: CET4 (620), CET6 (625), IELTS (6.5)
-
-- Other
-
-	bash script, git, make, LaTex, ...
+- Others: bash script, git, make, LaTex, ...
 
 ## Award
 ---
