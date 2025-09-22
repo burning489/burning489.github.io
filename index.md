@@ -34,6 +34,8 @@ title: Home
 
 E-mail: [zhao DOT ding AT polyu DOT edu DOT hk](mailto:zhao.ding@polyu.edu.hk), [dingz489 AT gmail DOT com](mailto:dingz489@gmail.com)
 
+Address: TU801C-01, Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR
+
 ---
 
 <!-- ## Recent Work
